@@ -1,0 +1,13 @@
+Day 2 — HTML Lists, Tables, and Forms
+
+Today’s topics are directly from your assessment roadmap:
+
+Lists
+Tables
+Forms
+Input fields
+Radio buttons
+Checkboxes
+Dropdowns
+Textareas
+Submit buttons
