@@ -1,0 +1,19 @@
+body{
+    background-color: beige;
+}
+h1{
+    text-align: center;
+    color: black;
+}
+.box{
+    width: 300px;
+    height: 230px;
+    border: 2px solid black;
+    margin: 230px auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+}
+p{
+    text-align: center;
+}
