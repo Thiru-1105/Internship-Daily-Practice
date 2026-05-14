@@ -1,0 +1,52 @@
+*{
+    
+    box-sizing: border-box;
+}
+body{
+    background: #0a0f1c;
+    color: #d7e1ec;
+    font-family: 'Rajdhani', sans-serif;
+    
+
+}
+header h1{
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 60px;
+    font-family: 'Orbitron', sans-serif;
+    color: #00d9ff;
+}
+header p{
+    text-align: center;
+    font-size: 20px;
+    margin-top: 0;
+}
+.Criminals{
+    display: flex;
+    justify-content: center;
+   
+    
+    padding: 20px;
+    
+    
+    gap: 20px;
+    flex-wrap: wrap;
+}
+.Eachcriminal{
+    align-items: center;
+    width: fit-content;
+    height: fit-content;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 20px;
+    background: #121a2b;
+    box-shadow: 0 0 10px black;
+
+
+    
+}
+.Eachcriminal:hover{
+    transform: translateY(-5px);
+    transition: transform 0.2s ease;
+    cursor: pointer;
+}
